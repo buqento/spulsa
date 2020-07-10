@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "13",
+    "createdAt": 1580172165075,
+    "room_title": "Kos Laha",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 35,
+    "owner_phone": "6281344710609",
+    "description": "Kos dengan fasilitas lengkap (kamar mandi, kipas angin, lemari, spring bed).\nLokasi Laha, samping bandara Pattimura Ambon.",
+    "location": "Laha",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 33,
+    "lng": 70,
+    "image_url": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p180x540/82946664_514853229153887_2178271897723076608_o.jpg?_nc_cat=107&_nc_oc=AQnpiOc__o2ORISFIOx2Va3tgbX3mPN_e17gBSsou147CmbPa3rnesa6WET7_niPAe0&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=2d7a1fc280d1d287adf2b7d4c551ce74&oe=5E98D1A1",
+    "price_month": "Rp 800,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/s960x960/82802047_514853349153875_6075580253529440256_o.jpg?_nc_cat=108&_nc_oc=AQnrJ85MT1pXe4NfNg_W0HUh8bAyj56yeHU-Zad4fYNO0AuRo2XfZD_ZpPobrh5gX_s&_nc_ht=scontent.fcgk18-1.fna&oh=74b92fb604f2bbf3bd4bfa0f41ad139f&oe=5E980343",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/82245750_514853492487194_8144274779478687744_o.jpg?_nc_cat=110&_nc_oc=AQmApmjSy-Uk5NGJ9lWD3fX_DIOxGisC7GHJax4RAnFRv6EsLNugq9G_LODWcQEOYN0&_nc_ht=scontent.fcgk18-2.fna&oh=d3383eb8860c9169b52106c451a4ec59&oe=5E9677A2",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-0/p180x540/83863639_514853105820566_8061278573752745984_o.jpg?_nc_cat=102&_nc_oc=AQnLv2gpL1viqsuPR5OI0RdLcpEdOmLc1XTeLu4ftmSy5RC2QOGKDCexI6gRReGO1kw&_nc_ht=scontent.fcgk18-2.fna&_nc_tp=6&oh=ee067a979c18441bb2093d8563db026f&oe=5E9856BA",
+        "width": 4,
+        "height": 3
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": true,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.7070205008773858,
+      "lng": 128.0997705459595
+    },
+    "slug": "kos-laha",
+    "views": 114,
+    "type": "type1"
+  },
+  {
+    "id": "14",
+    "createdAt": 1580342695230,
+    "room_title": "Kos Lateri",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 58,
+    "owner_phone": "6281247241863",
+    "description": "Tersedia kos baru di desa Lateri 1 depan RM 2 Ikan. 3 kamar + kamar mandi, 2 kamar non AC, 1 kamar AC, listrik pulsa untuk masing-masing kamar, air bersih, dan dapur. info hub Wa 081247241863/081247392140.",
+    "location": "Lateri",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 16,
+    "lng": 56,
+    "image_url": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/83181184_2918994248112599_4055110303279480832_n.jpg?_nc_cat=102&_nc_oc=AQnzKDQiLqmH46aQbQkPfyx4ahuA3V8YsNvrGIPLjtDU2xUJ2_XByb_E403yP5b87gM&_nc_ht=scontent.fcgk18-2.fna&oh=4c74e690497edd2a71dd4d82d8e5cc11&oe=5EC986AF",
+    "price_month": "Rp 800,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/82592592_2918994184779272_5233916532102266880_n.jpg?_nc_cat=101&_nc_oc=AQlzYDEeKz09QUT0O7HYpTW0ZDykxENto6ljJnLQmS1bWLdY-BG4fHzLZ8DDMyNyNTw&_nc_ht=scontent.fcgk18-1.fna&oh=608e69b8ca2409b45b2d9772da7dced2&oe=5EC43DD2",
+        "width": 2,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/83672175_2918994671445890_1895298797764870144_n.jpg?_nc_cat=111&_nc_oc=AQmaV1-k98yxUCpw-qVyvEECEL2uu6VICCJrg3k9z0TD-MnpYSeMdMT4WbMOB2fjHAg&_nc_ht=scontent.fcgk18-1.fna&oh=cec1956e5058d994558df66eadc44dec&oe=5ED6A844",
+        "width": 2,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/83539093_2918994728112551_3519917001210331136_n.jpg?_nc_cat=101&_nc_oc=AQlMZsXBJbOjaaH5jrFw0rL66IXtRZYKM-xdLcQZoR82Y-vOu_xG8RidQxfOVfYC9cs&_nc_ht=scontent.fcgk18-1.fna&oh=afd335b10ff9fbe31d22d9034cc97d95&oe=5EC3C9EA",
+        "width": 4,
+        "height": 3
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": true,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.645303169384388,
+      "lng": 128.23450326919559
+    },
+    "slug": "kos-lateri",
+    "views": 247,
+    "type": "type1"
+  },
+  {
+    "id": "15",
+    "createdAt": 1580434409600,
+    "room_title": "Dwinner Kos",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 61,
+    "owner_phone": "6282198999890",
+    "description": "Kami menyediakan Kost dengan harga terjangkau dan fasilitas memadai, khusus untuk Putra/Putri (tidak untuk yg sudah berkeluarga) di daerah Halong Atas Ambon, harga mulai Rp. 500.000 per bulan. Bgi Sdr/i yg membutuhkan dpt menghubungi kami via WA/SMS/TLP di. 082198999890 atau 082198228800.",
+    "location": "Halong",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 62,
+    "lng": 5,
+    "image_url": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/82207059_10214914008419554_9183934659300425728_n.jpg?_nc_cat=107&_nc_sid=07e735&_nc_eui2=AeGtd3pYQWzhfOjoQE3BBSSccyclsNYYF1tzJyWw1hgXW3YnjJkm0Ix_u289TKeujy4&_nc_oc=AQll-0rDfjpp1j6tx7VfK2-XMSlZFnBU9UrTa8O8ujJgjZ1qg8yDAK3-PXLm4ibJXvg&_nc_ht=scontent.fcgk5-1.fna&oh=7ac9fd446bed97723f8d86d895e0069f&oe=5ED296D1",
+    "price_month": "Rp 500,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/82459269_10214914008099546_3266006759533182976_n.jpg?_nc_cat=111&_nc_sid=07e735&_nc_eui2=AeEQerkBm0siQPHGhUL_ZZgyo_EHBP5ir9qj8QcE_mKv2jN-cmU2fq10EZDz197yQWI&_nc_oc=AQmWQIl_XNrSmmRgMRnBchCK0qK1R-Zf96uQhwM47lZ734vUIfLmGwyNqWa4ZO6YMGw&_nc_ht=scontent.fcgk4-1.fna&oh=b6253f08da2667f45a1cbc5569f807c0&oe=5ED2F28F",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/82255730_10214914009059570_8790118842958348288_n.jpg?_nc_cat=102&_nc_sid=07e735&_nc_eui2=AeGzHFVXFRDbMpUb8eRPuDUIxkR30ifFIZTGRHfSJ8UhlKg2H37W6cEgWyDZ2EqpI9I&_nc_oc=AQkp6B9pki4wYTeGmiAWDVn0iT1CGnF8rZyO3eAX6Y5Ij49LQL4CBuqxNsiC9KrkZQE&_nc_ht=scontent.fcgk5-1.fna&oh=28d91ebbba1e0ab36cd3958c7b4e1b32&oe=5ED1F6E2",
+        "width": 2,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk4-4.fna.fbcdn.net/v/t1.0-9/82135916_10214914009339577_131589968224059392_n.jpg?_nc_cat=101&_nc_sid=07e735&_nc_eui2=AeH6nMefFZYEbOhyHPbiJze1TU5Kh-E_aB5NTkqH4T9oHoIH38pnVN80za4v3-D6FsY&_nc_oc=AQkFjxWP_9jLlEfXtJrfHYyW8VN-0viWEghf311AntBNRXr65NUPnfhY7nydCQaatiQ&_nc_ht=scontent.fcgk4-4.fna&oh=110b6168235d9695560f130fef94b81b&oe=5ED4514E",
+        "width": 2,
+        "height": 3
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": true,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6623094982429585,
+      "lng": 128.21933269500735
+    },
+    "slug": "dwinner-kos",
+    "views": 175,
+    "type": "type1"
+  },
+  {
+    "id": "16",
+    "createdAt": 1581523330966,
+    "room_title": "Kos Hijau Arbes Stain",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 98,
+    "owner_phone": "6281342225212",
+    "description": "Tersedia kos wilayah Arbes-STAIN. Fasilitas yang disediakan yaitu, kamar mandi dalam, dapur mini, dan kosan pakai teras. Ketersediaan air bersih melimpah.",
+    "location": "Batu Merah",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 79,
+    "lng": 59,
+    "image_url": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/86185816_2715896281840125_6022520446597988352_o.jpg?_nc_cat=110&_nc_oc=AQkjBSk2TiVSvkL836E7L_Hk3uv-NY3ePDzQc4mk6d0bkOCHJyW-EnsSAKHfE_Kx8SA&_nc_ht=scontent.fcgk18-2.fna&oh=8eb3d59d42e23e7aab60baebc1da8986&oe=5ED2C106",
+    "price_month": "Rp 350,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/86261335_2715896388506781_8501726306021408768_o.jpg?_nc_cat=104&_nc_oc=AQkvTqStLQ7zdeOJjY2bQdhEvRWJr-ka1VIr3j2yhcx--T7KPnWxF_7q_GjoX8kaooI&_nc_ht=scontent.fcgk18-2.fna&oh=271e9b7eecefcc3c734b4abc398cdf73&oe=5EFF6EE6",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/s960x960/85048460_2715896525173434_5820748621108215808_o.jpg?_nc_cat=109&_nc_oc=AQmmjT_JnOwnuei1R3mk_EYS3rHYqpyw15wyj19Q9PwwmGMtLb6kY6ipVUD3fI2aIUc&_nc_ht=scontent.fcgk18-1.fna&oh=7a5a8166592f55486b97192b3e3a7e47&oe=5EC09303",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/s960x960/86292284_2715896581840095_4869345105128980480_o.jpg?_nc_cat=106&_nc_oc=AQl4tPMgskPqGmHY5CSYEPvtSW3YlYydbkUb_Se8m49tsuFBL9NWiU4LgbFyqUQgGks&_nc_ht=scontent.fcgk18-2.fna&oh=c52bb1c02c6ed1aeb1081210f74345db&oe=5EBCDCAA",
+        "width": 2,
+        "height": 4
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6829577204230013,
+      "lng": 128.2184396883102
+    },
+    "slug": "kos-hijau-arbes-stain",
+    "views": 125,
+    "type": "type1"
+  },
+  {
+    "id": "17",
+    "createdAt": 1582404220355,
+    "room_title": "Kos Passo Depan Bank Maluku",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 8,
+    "owner_phone": "6282398135412",
+    "description": "Kos baru, berlokasi di lorong masuk pangkalan ojek pohon mangga depan Bank Maluku Passo. Biaya sewa 500.000 perbulan, dengan fasilitas kamar mandi dalam, listrik dan air. Tersedia Wifi dengan biaya bulanan 50.000. Info lengkap melalui Whatsapp. tidak melayani SMS.",
+    "location": "Nusaniwe",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 47,
+    "lng": 83,
+    "image_url": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/87068645_1350437691805508_5840283618429108224_n.jpg?_nc_cat=101&_nc_sid=07e735&_nc_oc=AQnPfROrJv2zziOe8oIzawXPcdw84Et18GHkuqRWxswJkhapQcuVO4msJFnXoyPUb3Q&_nc_ht=scontent.fcgk18-1.fna&oh=13bc1600feedc5a5e58b516859862486&oe=5EBF8F48",
+    "price_month": "Rp 500,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/87156416_1350437661805511_5008359027403390976_n.jpg?_nc_cat=100&_nc_sid=07e735&_nc_oc=AQlgTxpEQTYVn8fK5eBgFyrqDf24dP-p3KTWxyzigfHUwsuWvZ5DSLxKJBJz26daJ2E&_nc_ht=scontent.fcgk18-2.fna&oh=ed2f23e0fb10dfa2af9a6450d6dfc803&oe=5EF8BEB4",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/87068645_1350437691805508_5840283618429108224_n.jpg?_nc_cat=101&_nc_sid=07e735&_nc_oc=AQnPfROrJv2zziOe8oIzawXPcdw84Et18GHkuqRWxswJkhapQcuVO4msJFnXoyPUb3Q&_nc_ht=scontent.fcgk18-1.fna&oh=13bc1600feedc5a5e58b516859862486&oe=5EBF8F48",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/87156416_1350437661805511_5008359027403390976_n.jpg?_nc_cat=100&_nc_sid=07e735&_nc_oc=AQlgTxpEQTYVn8fK5eBgFyrqDf24dP-p3KTWxyzigfHUwsuWvZ5DSLxKJBJz26daJ2E&_nc_ht=scontent.fcgk18-2.fna&oh=ed2f23e0fb10dfa2af9a6450d6dfc803&oe=5EF8BEB4",
+        "width": 4,
+        "height": 3
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": true,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6326790128388033,
+      "lng": 128.25074260256565
+    },
+    "slug": "kos-passo-depan-bank-maluku",
+    "views": 134,
+    "type": 1
+  },
+  {
+    "id": "18",
+    "createdAt": 1582420165601,
+    "room_title": "Kos Area Passo",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 40,
+    "owner_phone": "6282217972184",
+    "description": "Terima kost, fasilitas tersedia kamar antara lain: Kasur, Lemari, Mini kitchen,  Kamar Mandi, Meter pulsa di masing-masing kamar. Informasi selengkapnya dapat menghubungi kami.",
+    "location": "Passo",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 96,
+    "lng": 22,
+    "image_url": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/69833076_2647880405225172_5424081912849235968_n.jpg?_nc_cat=103&_nc_sid=b9115d&_nc_oc=AQkees_ItKkObSLCLM-VCu5eTkFv3gJC79-me8WwpAirc4uc-T6RfW-e2iE33BT9kSg&_nc_ht=scontent.fcgk18-1.fna&oh=34dda593be7eed68b77d5cfda613107f&oe=5EF0DABE",
+    "price_month": "Rp 750,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/70371814_2647880621891817_6356377325486997504_n.jpg?_nc_cat=100&_nc_sid=b9115d&_nc_oc=AQk_cGxQjOD_FTzpF_SmFsM_5H732M9NWLuLwMiyxZmCQLpQEmfEVV96LSI1Bkf3NjU&_nc_ht=scontent.fcgk18-2.fna&oh=53b1f0daef56588b747efc6998625ea6&oe=5EBF18D8",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/70540014_2647880665225146_1716536241656168448_n.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_oc=AQnkHImCfjRzA62cMn4axY070_L5l3lNGspqud1us02-Dv9UuieeVoiBUETE0AZWaGc&_nc_ht=scontent.fcgk18-2.fna&oh=9ab37d43ce09dd1043f4e2f699dc212d&oe=5EFEC374",
+        "width": 2,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk18-1.fna.fbcdn.net/v/t1.0-9/69795323_2647880725225140_7615034100218331136_n.jpg?_nc_cat=111&_nc_sid=b9115d&_nc_oc=AQm2O2KfPp5mDOYSm4PnfpORu20EuZw_iWOJI0MbnYBhz1Gz-k5BuuzZzymdckSPzWE&_nc_ht=scontent.fcgk18-1.fna&oh=daad36294780607d0d4416b1f56e0515&oe=5EC863E6",
+        "width": 2,
+        "height": 4
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.693139,
+      "lng": 128.183085
+    },
+    "slug": "kos-area-passo",
+    "views": 198,
+    "type": "type1"
+  },
+  {
+    "id": "19",
+    "createdAt": 1583358716680,
+    "room_title": "Kos Wara",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 23,
+    "owner_phone": "6282199020016",
+    "description": "Kos wilayah Wara, lorong pica botol",
+    "location": "Passo",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 72,
+    "lng": 96,
+    "image_url": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/p720x720/89038052_207667043945416_9146245505234239488_o.jpg?_nc_cat=102&_nc_sid=07e735&_nc_eui2=AeE9qPs2lw1jL9ebZwHPD0nnL2UiRF0rJdMvZSJEXSsl02JhIzJ5TJTIDV7r3SLHtBk&_nc_oc=AQmkedsaTUeiUtdYpQo2NDxMorQceVv_OTd1N7aWFX1_3wJFRMJxS2zQjQlE8zSbK-Q&_nc_ht=scontent.fcgk5-1.fna&_nc_tp=6&oh=f90d54a1e2748615dc755aa4c21dfb5e&oe=5ED26F46",
+    "price_month": "Rp 550,000",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/p720x720/88128764_207666427278811_3137534890321379328_o.jpg?_nc_cat=100&_nc_sid=07e735&_nc_eui2=AeEDFCGf8itiKOOtCUM0uyPjci5MTc74svlyLkxNzviy-abPSmeI7kNmOOKcN61zbzY&_nc_oc=AQncBzOReAq3Jd-xvLCbyCu2YbB3ckGZ9biaHg0UoQY3oQ_ItXTJy3m_NKnwVYxMni4&_nc_ht=scontent.fcgk4-1.fna&_nc_tp=6&oh=345c39113a3ceecee1cf1de403a7ef91&oe=5ED2662A",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk4-3.fna.fbcdn.net/v/t1.0-9/p720x720/88166257_207666500612137_4225217976300732416_o.jpg?_nc_cat=108&_nc_sid=07e735&_nc_eui2=AeHH8aRJ4P5N9IFqj_g-CigkBMzY28HQN5MEzNjbwdA3kxL8KknYdkYlE80o1_1AJbs&_nc_oc=AQnz_0hDZz43en_MWqiZVE3nEjVlHXdkVZkJNFYL6lAQwX5ATc_XuSBVAx59UC1h1Hw&_nc_ht=scontent.fcgk4-3.fna&_nc_tp=6&oh=c2853435b1820a4db3320396455dd2cb&oe=5ED30D6E",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk4-3.fna.fbcdn.net/v/t1.0-9/p720x720/88357414_207666867278767_3668087201054326784_o.jpg?_nc_cat=108&_nc_sid=07e735&_nc_eui2=AeGwQhn9853x7UrLi6nljbDGE-JctmrYUJQT4ly2athQlEyTXpg-ppTPJclI471ziHk&_nc_oc=AQnGIdcZARNhbFPCm24hBaKhcpD4ddRFG_odXEyWbt1Uo8hziqIIBONjs3QiayRdm7w&_nc_ht=scontent.fcgk4-3.fna&_nc_tp=6&oh=34609b04f5db5923273a2551c74a0285&oe=5ED20F15",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": true,
+        "kipas": true,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6906191412030576,
+      "lng": 128.1921458244324
+    },
+    "slug": "kos-wara",
+    "views": 30,
+    "type": "type1"
+  },
+  {
+    "id": "20",
+    "createdAt": 1584483176775,
+    "room_title": "Kos Nyaman Kece",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 12,
+    "owner_phone": "6285254255730",
+    "description": "Lokasi samping BTN Pesona Alam.",
+    "location": "Batu Merah",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 67,
+    "lng": 22,
+    "image_url": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/p720x720/89308701_583982972198160_5372907557906022400_o.jpg?_nc_cat=103&_nc_sid=b9115d&_nc_eui2=AeESyzC6mm-pTUQJFYmpLQOPfGqx0UPliopezqoac9JXNXPnVAbQ0o-HR-oJ7QH0qA2G1Bvx4ma-weNRKX817tlN2NwC8Vep-S39IbRrsXixzg&_nc_oc=AQlKjvTV7g9NWAm2dNHf8X7l1XOLzWBkGkQpP-h2qEcBJulmJkeHEw1M9wkHDKlhaLI&_nc_ht=scontent.fbdo6-1.fna&_nc_tp=6&oh=59b6023a14dc03e30dbad675621a985e&oe=5E96276B",
+    "price_month": "Rp 450,000",
+    "photos": [
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/89603808_583982905531500_7499625893728354304_n.jpg?_nc_cat=104&_nc_sid=b9115d&_nc_eui2=AeHgU5bm33-VCz_T5Zj9vkTfQ9w79juZQjwChGbtlXIXGWRXkvXiWP8D37c9LMpQZsARAeYZjXJPCzwLzSV-ENM5y8q_fnLp_K6mvZiUkyGj0A&_nc_oc=AQmnQT6GrKZ7QhwpmFv38UTE_iOjtPLc6l3nLk3vzRti2NNiKHxS_KMJ4xZPn-SOj9Y&_nc_ht=scontent.fbdo6-2.fna&oh=d96c284b945157d754675fe85af8147b&oe=5E97259B",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/p720x720/89941657_583982925531498_2731693685241544704_o.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeE-1k1PAdaEWP5hzjPEsJTAFHob6pJXxDXXGHcgExTi1VvCwb6NikHbZP3H5Y0jF_MgivMSpAVjpwfAHUdZ4XdoaBA1-yGFPVPMT9X7kFcARg&_nc_oc=AQm-dkWWOxvft32yz34HG9Yuq7KrUOKlgaq1nFV5WE7tdmUCdDnoQfho37_fn3glVAM&_nc_ht=scontent.fbdo6-1.fna&_nc_tp=6&oh=59f56575fa92de63ce32cc200aae165d&oe=5E965C59",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/p720x720/89238105_583982948864829_7112837283832659968_o.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeHy1CEHAdU5V5uAWzGdHClCmu4SAJCOyXHSUEQ_K1oiVV8nqO1euXVJ2mz_SWFNdQI8UsnRffLOHy2RVzPUQw5KWOv51GjD6L49EipCCg-rhA&_nc_oc=AQmPRRX08HZ0RlM4shbfQdfJ-NIDuvzmE8YFgCkjMqEQTl4su2GWa03_VHBVZ2eqQWI&_nc_ht=scontent.fbdo6-1.fna&_nc_tp=6&oh=2570c1b88e83d48b2ddb91918bacbbb4&oe=5E9732AA",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.682955132147447,
+      "lng": 128.20507908007133
+    },
+    "slug": "kos-nyaman-kece",
+    "views": 69,
+    "type": 1
+  },
+  {
+    "id": "21",
+    "createdAt": 1584484547852,
+    "room_title": "Kos Passo Lorong PLN ",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 38,
+    "owner_phone": "6285656117336",
+    "description": "Lokasi kos di Passo, tepatnya di lorong PLN. ",
+    "location": "Passo",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 94,
+    "lng": 32,
+    "image_url": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/89822682_639653546849312_804262042407010304_n.jpg?_nc_cat=111&_nc_sid=ca434c&_nc_eui2=AeFheWDlCHhD3Jkzd32cfbWU0gbBr7TwMoLbc_t4wjsO4qvp4dkMCySfCXqilg1enQW7mrpOea5z3eii7-BjznSLgGR24g4jHL72T6BX2x50yw&_nc_oc=AQld_fH707eDT54NuBiJWJ6Fgrd8Akehrprlx84_Z44vGA5JzfyW43Iv3Zq1WfWTj_Y&_nc_ht=scontent.fbdo6-2.fna&oh=831455d1c3462b5b9a4ba13243fb4623&oe=5E953BB1",
+    "price_month": "Rp 500,000",
+    "photos": [
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/89822682_639653546849312_804262042407010304_n.jpg?_nc_cat=111&_nc_sid=ca434c&_nc_eui2=AeFheWDlCHhD3Jkzd32cfbWU0gbBr7TwMoLbc_t4wjsO4qvp4dkMCySfCXqilg1enQW7mrpOea5z3eii7-BjznSLgGR24g4jHL72T6BX2x50yw&_nc_oc=AQld_fH707eDT54NuBiJWJ6Fgrd8Akehrprlx84_Z44vGA5JzfyW43Iv3Zq1WfWTj_Y&_nc_ht=scontent.fbdo6-2.fna&oh=831455d1c3462b5b9a4ba13243fb4623&oe=5E953BB1",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/89766427_639652853516048_5156722303207211008_n.jpg?_nc_cat=106&_nc_sid=ca434c&_nc_eui2=AeFgId2vbl8wy8pWiBeVelMUYbLlrRPbrVXxApi0qhEDIqY5nTVSC-PGrrIv195hLrYEWyr-nMM0e0zxEsTu-ZXJQ-3byuFHk7p4PlCo95-ncA&_nc_oc=AQlBUdk9Z8BmSs_G209cU7tcA4z7rgzCb2Wc4S9nlDZx_H54Rkg0SLMF5iHxiHGYjO0&_nc_ht=scontent.fbdo6-1.fna&oh=b02100d39ae0029b5f7aad71ddbdd796&oe=5E9649A5",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/89822682_639653546849312_804262042407010304_n.jpg?_nc_cat=111&_nc_sid=ca434c&_nc_eui2=AeFheWDlCHhD3Jkzd32cfbWU0gbBr7TwMoLbc_t4wjsO4qvp4dkMCySfCXqilg1enQW7mrpOea5z3eii7-BjznSLgGR24g4jHL72T6BX2x50yw&_nc_oc=AQld_fH707eDT54NuBiJWJ6Fgrd8Akehrprlx84_Z44vGA5JzfyW43Iv3Zq1WfWTj_Y&_nc_ht=scontent.fbdo6-2.fna&oh=831455d1c3462b5b9a4ba13243fb4623&oe=5E953BB1",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6357647876381933,
+      "lng": 128.25503346143722
+    },
+    "slug": "kos-passo-lorong-pln",
+    "views": 78,
+    "type": "type1"
+  },
+  {
+    "id": "22",
+    "createdAt": 1585049634464,
+    "room_title": "Rumah Kontrakan Asrama Haji Waiheru",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 16,
+    "owner_phone": "6281388581851",
+    "description": "Di kontrakan 1 rumah dengan fasilitas 3 kamar tidur, Air bersih, Listrik token. Lokasi Kompleks asrama haji, Waiheru.  Harga bisa nego.",
+    "location": "Waiheru",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 47,
+    "lng": 21,
+    "image_url": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/p720x720/90481203_221525952235244_1275052052174602240_o.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_eui2=AeHGJpeG-y9s3Kx-fypP0s38hNiPVLZKnHXtckJB1ePoH_Pm0nl4i6HInlp3GRff645gFLAafIgRL8GmlZsB0mOHCtIXmbGMo0LbadNPSb3VTA&_nc_oc=AQkIOI2hB3UfBa2t9q8nOEhyHfZZlHW12YYByTHCX8rGr2jc7BLUjarv4Ju8u9gb25A&_nc_ht=scontent.fcgk9-1.fna&_nc_tp=6&oh=3059220883907dae884128ee7dc9e2b8&oe=5EA08226",
+    "price_month": "Rp 15,000,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": false,
+        "kasur": false,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.625957503399108,
+      "lng": 128.22400287612976
+    },
+    "slug": "rumah-kontrakan-asrama-haji-waiheru",
+    "views": 77,
+    "photos": [
+      {
+        "src": "https://scontent.fcgk8-2.fna.fbcdn.net/v/t1.0-9/p720x720/90511627_221526008901905_3346605986960900096_o.jpg?_nc_cat=107&_nc_sid=b9115d&_nc_eui2=AeEn_CUlFPU5wMEKjzyA2PLGHnyKtLzHNJZttR_EzJqDoXN6DK3hdZ1KWRPiuPeGVUrRytKb6i_dPkGaoHIbAM8GHmVLz6kltF0mB7OpUD68Ag&_nc_oc=AQmRStc3mCm9XAbbmIq4EBAnANwGdddQHt6-ic0IAr3OWPt1IG_B5kidvOFxmTMHJGw&_nc_ht=scontent.fcgk8-2.fna&_nc_tp=6&oh=fcec01725f80414b20a14f752ca5c96e&oe=5EA05527",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/p720x720/90831762_221525708901935_4702364623565750272_o.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_eui2=AeEdpYuE8aRrCVfq-QvxNTvObkFaBcACTI-DrFk0qNvPEsdVnDJoxAVPk97Ca0VoET6lnwQs5aLsJL54pSpJ56Ry7FSRl1dVRmPJ8ak8SzA8Tg&_nc_oc=AQltTBTbvdOEsMOVda_s0ut5lc6BC0AKwLrZYtpSYoLKDdaXSHWMhwzg_oFzMw7Lmcg&_nc_ht=scontent.fcgk9-1.fna&_nc_tp=6&oh=bb64b6f2fe77c0b2dfd3ec7cd39c1a42&oe=5EA01EF7",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk9-2.fna.fbcdn.net/v/t1.0-9/p720x720/90509102_221525872235252_3359494110074372096_o.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeFB9xhtUNwlwBOK3PxH9-P1r-_bO8P0dAHQY8PRP984_QiYQOMq9G-78DgfwPvUIUPuaBtLuE4ZSeO1oMm6w6a7KnIDEE80fOYGfBtwUOoE6Q&_nc_oc=AQkJuRMuLgbecGvXR5o3otKMPJrRQi2hGqmNaLU_Ez0Edhqsya50gYo1LTm5nfSeUwc&_nc_ht=scontent.fcgk9-2.fna&_nc_tp=6&oh=43e6919be743966e19235e88018e2961&oe=5E9DFC53",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "type": "type2"
+  },
+  {
+    "id": "23",
+    "createdAt": 1585053410259,
+    "room_title": "Kontrak Tahunan Asmil Batumerah",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 11,
+    "owner_phone": "6288888888888",
+    "description": "Rumah di kontakan, berlokasi di Asrama Militer Batumerah. Fasilitas: Air bersih, 2 kamar tidur, 1 kmar mandi, Ruang tamu, luas 5x2, Dapur luas 4x4. Tersedia parkiran motor. Harga dapat negosiasi.",
+    "location": "Batu Merah",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 43,
+    "lng": 89,
+    "image_url": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/p720x720/89154657_3101402933203868_1451527452298838016_o.jpg?_nc_cat=105&_nc_sid=07e735&_nc_eui2=AeGM8kHDD9v572qh38HBFg7hP4kH9BWXVSCsyF9_cOX_2e_suwGgYhCnuSRWJ9BclAL9ruSRq8_yeeIgDPq1JRBHQgFQqQ_aeJYuw1KYc_24dA&_nc_oc=AQmJWcaFVzNWJwrcFYZrwU4W4dKG4udShza5JEpdr8x6G6qEn30Htu1hQ1RPB6lUSog&_nc_ht=scontent.fcgk9-1.fna&_nc_tp=6&oh=aae3a51f9a95beb21e6c0f5934735df8&oe=5E9F8550",
+    "price_month": "Rp 10,000,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.6874958668611124,
+      "lng": 128.1887170252097
+    },
+    "slug": "kontrak-tahunan-asmil-batumerah",
+    "views": 40,
+    "photos": [
+      {
+        "src": "https://scontent.fcgk9-2.fna.fbcdn.net/v/t1.0-9/p720x720/89469593_3101402859870542_4148310518077063168_o.jpg?_nc_cat=104&_nc_sid=07e735&_nc_eui2=AeFpqLHdtwrYnznKMHbmeSnWOt7oUqDviQ6ALyMPPbTXbUVh9Q7rbp1usbqTgaOrP7mczOy0maxJiSGv2kzuheN0aSyBO_RFI9mz40oLHOKfhg&_nc_oc=AQmixvnfr0HJOAEzgt04tnPekTeT9OqGzBWSh0MNxS4ENj4hmk9ymUnC0gAbqrYd464&_nc_ht=scontent.fcgk9-2.fna&_nc_tp=6&oh=5655c7836bd330412f35d51fdbc860cb&oe=5EA181B9",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/p720x720/89785189_3101402906537204_54844546231566336_o.jpg?_nc_cat=102&_nc_sid=07e735&_nc_eui2=AeFRdWbJzFLmYXEiUJRre9RBCy62nsvt4JO8D475gY666scupCLY43nkLS4_NWvfZ_Q3RntV8hT0BmclPJA0mlKJcWUQvWKS0qzIX8DMy0NFQg&_nc_oc=AQmDjZPUSsnDEoCuEyu86jzfwyJH3F0cw_SvjoYDyMsWd5Ji94SKzJv5YIbnascaE84&_nc_ht=scontent.fcgk9-1.fna&_nc_tp=6&oh=40141dcdbb8264b3beeb1a4392a364c7&oe=5E9E82D4",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-9/p720x720/89299466_3101402839870544_4942849385886121984_o.jpg?_nc_cat=111&_nc_sid=07e735&_nc_eui2=AeE1WTwT2BZNlBtTQkZKVHX-6fkZp-64SX6SmnabLLmzWA2WVx5uq5BGnDKlvzHhmlSoTaD0oMUyytJgJIdjzQv3icPI_sMLbgAoLukW-6QoLA&_nc_oc=AQll3beMcBtN9ldvcw8MebOrAFvgNmngfSlYeqJ4bMBsnfGyYcJVF2JY-cYNY5-y-j8&_nc_ht=scontent.fcgk8-1.fna&_nc_tp=6&oh=d11b27956375b6f0e71b5f826b838d0d&oe=5E9DCDBD",
+        "width": 4,
+        "height": 3
+      }
+    ],
+    "type": "type2"
+  },
+  {
+    "id": "24",
+    "createdAt": 1585054114004,
+    "room_title": "Rumah Kontrak Tahunan Waiheru Lapiaso",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 98,
+    "owner_phone": "6281388581851",
+    "description": "Dikontrakan rumah dengan fasilitas: 2 kamar tidur,  1 kamar mandi/wc. Berlokasi di Waiheru lapiaso. Jarak dari jalan utama 300m. Tersedia parkiran mobil. Harga Nego.",
+    "location": "Waiheru",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 95,
+    "lng": 71,
+    "image_url": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-9/p720x720/88236513_210211776699995_5106443925686583296_o.jpg?_nc_cat=111&_nc_sid=b9115d&_nc_eui2=AeFGzAYd2BWls_Q_661GpE851p6VKzze9LGo6zrHnqf53PEWjY05CX0BQbuirdfJpQJ10Px0PkKGTJoP17CKjFkgAcFqeFHcvrv00i8Ku6S7ew&_nc_oc=AQnASBeSb2-bfku86JisCU86-VwuBAF0jkNcsZPfXw0YZUHTA98dCadJgVs7_EM-pT4&_nc_ht=scontent.fcgk8-1.fna&_nc_tp=6&oh=57056114cb79761679c489ae1d03f1fd&oe=5E9DB935",
+    "price_month": "Rp 0",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.625559236480131,
+      "lng": 128.22605768332917
+    },
+    "slug": "rumah-kontrak-tahunan-waiheru-lapiaso",
+    "views": 29,
+    "photos": [
+      {
+        "src": "https://scontent.fcgk8-1.fna.fbcdn.net/v/t1.0-9/p720x720/88236513_210211776699995_5106443925686583296_o.jpg?_nc_cat=111&_nc_sid=b9115d&_nc_eui2=AeFGzAYd2BWls_Q_661GpE851p6VKzze9LGo6zrHnqf53PEWjY05CX0BQbuirdfJpQJ10Px0PkKGTJoP17CKjFkgAcFqeFHcvrv00i8Ku6S7ew&_nc_oc=AQnASBeSb2-bfku86JisCU86-VwuBAF0jkNcsZPfXw0YZUHTA98dCadJgVs7_EM-pT4&_nc_ht=scontent.fcgk8-1.fna&_nc_tp=6&oh=57056114cb79761679c489ae1d03f1fd&oe=5E9DB935",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk9-2.fna.fbcdn.net/v/t1.0-9/p720x720/88321193_210211783366661_1854418762170630144_o.jpg?_nc_cat=103&_nc_sid=b9115d&_nc_eui2=AeEs4Tpso2_vIroP5Yx5iLJ3I0YHMIltYEBTeGVpoOjGRlfhpUQpKMYQlCrYwfEB-7gy18NKJ6I-odgbfDUnUJnH7Z_sH25Wi6TzBVUBZq2-jA&_nc_oc=AQmwbAUF2mPwvrIQ9p_H4BRtwESESBL0fzwfeyUkS5XPUAaOzbLYv21yKHdKVDTfJz4&_nc_ht=scontent.fcgk9-2.fna&_nc_tp=6&oh=0afafd8a42abdec3be42fd67c39b7730&oe=5E9E2F23",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk9-1.fna.fbcdn.net/v/t1.0-9/p720x720/88261078_210211860033320_9086885062883934208_o.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_eui2=AeEDzfRzuWvvsyfApbY6mxGFF3NlbBstRvDcGTTZdRn_fhr7S5bXlKY45naFpiqIkTeYCyNNjvdh2rRMsqu4zG-XXi4nN5FKTY8eD85eKj3puA&_nc_oc=AQmIAve5VpmBJ9Lg0NDSr5lvTfexyPH0toA-NqxqXSIalo7KThBuHx3IzNSbbQyPAXk&_nc_ht=scontent.fcgk9-1.fna&_nc_tp=6&oh=609ebac195307644a41aec9e3c35ee52&oe=5E9E7B5E",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "type": "type2"
+  },
+  {
+    "id": "25",
+    "createdAt": 1585103317619,
+    "room_title": "Kontrak Tahunan BTN Wayame",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 38,
+    "owner_phone": "6285319132515",
+    "description": "Dikontakkan hunian berlokasi di wilayah BTN Wayame. Info lengkap hubungi nomor yang tersedia.",
+    "location": "Wayame",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 65,
+    "lng": 11,
+    "image_url": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/88357368_226724505173572_29072221309763584_n.jpg?_nc_cat=107&_nc_sid=07e735&_nc_eui2=AeFE52YNlQD24wHfgVQYUl39i-brwaYZYgJd_rr835artY7gNIxODKc5-726SVgzuVPIjwM1-ClUdTtDXuvvW5ZQargjAyF02f4qRvR04Kj1VQ&_nc_oc=AQlAxpxvBpyO_xnBc8egUBIQ1ZdGB_X_jayfuqZ8Tn3pGzyzI26PmhBYwlfYyfdRyak&_nc_ht=scontent.fcgk5-1.fna&oh=a6368ea0ed88f9c86cdc17371665a7e8&oe=5E9F0756",
+    "price_month": "Rp 0",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.693139,
+      "lng": 128.183085
+    },
+    "slug": "kontrak-tahunan-btn-wayame",
+    "views": 33,
+    "photos": [
+      {
+        "src": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/88357368_226724505173572_29072221309763584_n.jpg?_nc_cat=107&_nc_sid=07e735&_nc_eui2=AeFE52YNlQD24wHfgVQYUl39i-brwaYZYgJd_rr835artY7gNIxODKc5-726SVgzuVPIjwM1-ClUdTtDXuvvW5ZQargjAyF02f4qRvR04Kj1VQ&_nc_oc=AQlAxpxvBpyO_xnBc8egUBIQ1ZdGB_X_jayfuqZ8Tn3pGzyzI26PmhBYwlfYyfdRyak&_nc_ht=scontent.fcgk5-1.fna&oh=a6368ea0ed88f9c86cdc17371665a7e8&oe=5E9F0756",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/89035956_226724468506909_1162506883769040896_n.jpg?_nc_cat=106&_nc_sid=07e735&_nc_eui2=AeHWet5jjT38glMZe_xORml5GVEKlCWoipDlW999tbRzwYbfCcZ6UDBEZ1qo-ZHVQYyvg1fg2e3bj6lfxxhgarMDr9XeFzeX25guREBNuWN3nQ&_nc_oc=AQmGqRiwl0UwjWpwTw-tpbK43UTMd87PJWHwKWIdDNqOCQ7MHa_Wjqe-68g6uRR_QyY&_nc_ht=scontent.fcgk4-2.fna&oh=49367b3a374a273299db4b2ad6ea4a89&oe=5EA1BF1C",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/89035956_226724468506909_1162506883769040896_n.jpg?_nc_cat=106&_nc_sid=07e735&_nc_eui2=AeHWet5jjT38glMZe_xORml5GVEKlCWoipDlW999tbRzwYbfCcZ6UDBEZ1qo-ZHVQYyvg1fg2e3bj6lfxxhgarMDr9XeFzeX25guREBNuWN3nQ&_nc_oc=AQmGqRiwl0UwjWpwTw-tpbK43UTMd87PJWHwKWIdDNqOCQ7MHa_Wjqe-68g6uRR_QyY&_nc_ht=scontent.fcgk4-2.fna&oh=49367b3a374a273299db4b2ad6ea4a89&oe=5EA1BF1C",
+        "width": 4,
+        "height": 3
+      }
+    ],
+    "type": "type2"
+  },
+  {
+    "id": "26",
+    "createdAt": 1585104506645,
+    "room_title": "Rumah Kontrak Tahunan Belakang Rindam Suli",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 74,
+    "owner_phone": "6281343585022",
+    "description": "Rumah dikontrakan per tahun, berlokasi di Jl. Banda - Suli (belakang Rindam). Fasilitas: 3 kamar tidur, ruang tamu, ruang keluarga,  dapur, kamar mandi, bak penampung air. Info selengkapnya hubungi nomor yang tersedia.",
+    "location": "Suli",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 19,
+    "lng": 87,
+    "image_url": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/86735440_111488607106706_6492535292078063616_n.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeFAsTwULaz01OMgABoNBEAo4QmIEmy8fN7e5ETQqGYiT8RNthbbIzYDucTuM_XOtUkIWWQEcyLKahWaa67MRyOMYc8wEN2-iHmHvw-q20rEzA&_nc_oc=AQmkCG8bu9HVvommYkXIprX4sb2YEt6eB9os4gz65-gpLE_JqvYico_IOwNzzifk9Kg&_nc_ht=scontent.fcgk4-2.fna&oh=dacc230d4636e667b0b48e133cc2fd9a&oe=5E9FD7B3",
+    "price_month": "Rp 7,000,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.693139,
+      "lng": 128.183085
+    },
+    "slug": "rumah-kontrak-tahunan-belakang-rindam-suli",
+    "views": 36,
+    "photos": [
+      {
+        "src": "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/87157744_111488797106687_2051112699365949440_n.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_eui2=AeG0cZa2luYV0Gf1ZMV2TE6ehh79AJJad2Nol0wBRAYGMIqbW6S1PbgXDXQigxSdLfwZwN7yO-K2-c_5EfL1nwz7gm6LZ8K6saK7rLAtACTvmA&_nc_oc=AQm_z3yHx-9VRDbhvm6BFdR4N5zOajtd77pH6zlPPsWoC_S1uaCe_u0AmxV_joVq_9Q&_nc_ht=scontent.fcgk4-1.fna&oh=4f8bca7ae007a5fdf1a5ae22e933b2fb&oe=5EA0604D",
+        "width": 4,
+        "height": 3
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/87078134_111488850440015_3724121650795380736_n.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeHcXNi8Yzo-yeCuRl1ToKpIe1OtzU0vZTxcMKDfnYPZfU2Gqq8thcIgMbo3vsZr4ajRizml0QeOoaG7By0gebsF5miJW-9CNWsfD73R-fsuBg&_nc_oc=AQnK1ELLO2wmq-i_mZRcaiXe1kxwjUMuWiISOGvDzpX9Yl91SVLrKAKqZWuEssn5aHU&_nc_ht=scontent.fcgk4-2.fna&oh=566fb9e59ca41f34392b1cf8d5290f85&oe=5EA0BCCD",
+        "width": 3,
+        "height": 4
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/86766378_111488643773369_6073296241461035008_n.jpg?_nc_cat=109&_nc_sid=b9115d&_nc_eui2=AeGAClQkKHnoZNsfaN6Qxuia_dmZqD7o8lRaCQ7-rPCpgixG3tGa9ljR0o_nKyi1WdVnEG-cy-8nsNe_WzWb2EnxBj2yIPD3oVHpDS7Y-VhNBg&_nc_oc=AQmMb3SwusOGEIGj3cHdha8c_tIjILqTAYnvY355c_74tfOKVX7U23OnGLNOprZwqtE&_nc_ht=scontent.fcgk4-2.fna&oh=8f9ecdc73bc557563362c9aea4cfb9d4&oe=5E9F0B97",
+        "width": 3,
+        "height": 4
+      }
+    ],
+    "type": "type2"
+  },
+  {
+    "id": "27",
+    "createdAt": 1585121064305,
+    "room_title": "Kost Area Brimob Arbes Passo",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 80,
+    "owner_phone": "6288888888888",
+    "description": "Kost Area Brimob Arbes Passo. Fasilitas: Kamar mandi dalam, dapur, Spring bed 2 badan. ",
+    "location": "Passo",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 88,
+    "lng": 24,
+    "image_url": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/69735067_2404401036438751_9083856827472412672_n.jpg?_nc_cat=107&_nc_sid=b9115d&_nc_eui2=AeE0AfCF6hK09A8qtvMXFDQbNLpcjh3atrSFQ9sI6bzSBOGidf95KENOn6_pF693YFcl5b4YLixdkhBAn7PHMRzsIljC-AcLI-TUq4KXrTzg5A&_nc_oc=AQm4WgYJl9SQhTZesCLXKgymr2fWQ55UYwEaM8iSrQSFvRx5U6GSgdyVeKHJJtOij_U&_nc_ht=scontent.fbdo6-2.fna&oh=3effba270eeb550d6add3cd855af9e4c&oe=5EA09AF5",
+    "price_month": "Rp 750,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.693139,
+      "lng": 128.183085
+    },
+    "slug": "kost-area-brimob-arbes-passo",
+    "views": 33,
+    "type": "type1",
+    "photos": [
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/69735067_2404401036438751_9083856827472412672_n.jpg?_nc_cat=107&_nc_sid=b9115d&_nc_eui2=AeE0AfCF6hK09A8qtvMXFDQbNLpcjh3atrSFQ9sI6bzSBOGidf95KENOn6_pF693YFcl5b4YLixdkhBAn7PHMRzsIljC-AcLI-TUq4KXrTzg5A&_nc_oc=AQm4WgYJl9SQhTZesCLXKgymr2fWQ55UYwEaM8iSrQSFvRx5U6GSgdyVeKHJJtOij_U&_nc_ht=scontent.fbdo6-2.fna&oh=3effba270eeb550d6add3cd855af9e4c&oe=5EA09AF5",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/69447995_2404401063105415_9202723539197624320_n.jpg?_nc_cat=110&_nc_sid=b9115d&_nc_eui2=AeE9cVtzpMePIea3aw0YRRoHvtkCAoRzbMUs6AwjuuR3F7gGs09GPbQnXq0MhsTif_bE9GxcW6QG0tSGRz-6hJeIJGVY5JAtSb5g4KqYSb2Hvg&_nc_oc=AQmgAuxvWn6I69pG2rm-Be1pSQgiTADPURDh8MKoS6t6ufnLldQi3eYWr76ZQYDw16E&_nc_ht=scontent.fbdo6-2.fna&oh=9703b46268ce582b72db69aa31dab3f7&oe=5E9FEFAB",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/69415571_2404401086438746_1478938693791121408_n.jpg?_nc_cat=107&_nc_sid=b9115d&_nc_eui2=AeEjln6aS2RJ5DEg0BPIdb_Vk3kQKibfi0drL7WE3EUHyloWZJSnYHYHbxD8eYLfUVIy8GTHzH_XEmzL8D9aDCtsvCJ4V_Lf75A-UTgTGsv2tw&_nc_oc=AQkPyTr2o5aYXNBaFA-Tsxx9XeM2WAKJFlyCs53sB_87gGvGZGIbxPZE-sFl6K_c92U&_nc_ht=scontent.fbdo6-2.fna&oh=f69efe3b062fe1d94cf87d8da1a6080a&oe=5E9ED70C",
+        "width": "3",
+        "height": "4"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "createdAt": 1585213851354,
+    "room_title": "Kos Vivi Silale",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 62,
+    "owner_phone": "6285244774092",
+    "description": "Kost Vivi Silale. Fasilitas (sesuai foto). Springbed+sperai dan bantal, lemari besar, AC, kamar luas, kamar mandi dalam luas+dapur dalam. Tiap kamar ada jemuran, ada tempat parkir motor & mobil. Air sumur bor lancar jaya. Harga sewa 1,5jt/bulan atau 500rb/minggu. Info lengkap 085244774092 (Vivi Rimony). Instagram @vvrimony",
+    "location": "Silale",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 47,
+    "lng": 61,
+    "image_url": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/90657701_3930852653599491_2828510653344382976_n.jpg?_nc_cat=102&_nc_sid=07e735&_nc_eui2=AeFUQea9_FyeBhXeqwPZU18aRZsMMsA7JbpFmwwywDsluhmwCO4botEzueriD6iKW1c&_nc_oc=AQnDb-cSh5EE1JUJx3V4wefRgaxuRm6GicVM0rIw-zMZq7RKthN4dnVO_nPSsGTNrZ8&_nc_ht=scontent.fcgk5-1.fna&oh=9554fe8af76e158604dc425227fcefe4&oe=5ED55456",
+    "price_month": "Rp 1,500,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": true,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.693139,
+      "lng": 128.183085
+    },
+    "slug": "kos-vivi-silale",
+    "views": 51,
+    "type": "type1",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/90409345_3930852876932802_6276386510241529856_n.jpg?_nc_cat=111&_nc_sid=07e735&_nc_eui2=AeHI1LNZaJrD2yA57GVYEKT6qXQMyqCIOr2pdAzKoIg6vayMjC3QxO08IITCTYWm0xk&_nc_oc=AQnsJYBW-u3pcSD36ksYD9CUvPnqDVfcVo0_o55gRFwQz3npX_CEUqPP2M5vN9UHh5o&_nc_ht=scontent.fcgk4-1.fna&oh=d4df409f456fc29ad3c9ec1ef683e9d0&oe=5ED4E956",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/91046104_3930852680266155_2107641302274277376_n.jpg?_nc_cat=109&_nc_sid=07e735&_nc_eui2=AeEJnjS-71ubJdBTTHbdjcKVh-wVEO6DMZGH7BUQ7oMxkfhJ8wB4GwxSphPPLigPLL8&_nc_oc=AQl8bVaGTDv7Qrd_5ROXXlzbgy_bBaeoxs6-wavB2_yhLqhjCOupxWkAYtMfg_triYE&_nc_ht=scontent.fcgk4-2.fna&oh=cd3ae4a314bbdf71e4e3d4001d9e9ccd&oe=5ED501B0",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fcgk4-1.fna.fbcdn.net/v/t1.0-9/91400224_3930852810266142_3840431723108106240_n.jpg?_nc_cat=110&_nc_sid=07e735&_nc_eui2=AeG-BOKpcIRuSg-vVcXu1AP2zOw6kH-PKd7M7DqQf48p3njk9w-4CH_Po2HfUwMEwyU&_nc_oc=AQlWAvb93u3KfUQj-283QFcm4IsZ0dLyNxTuiQQcP3AkkH8OpzvvJ5CqqBGsjHRrcdU&_nc_ht=scontent.fcgk4-1.fna&oh=3723481d8f18edad8f513913affc61c3&oe=5ED2B5E7",
+        "width": "3",
+        "height": "4"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "createdAt": 1585394011199,
+    "room_title": "Kos Waiheru Area BTN Puskopad",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 96,
+    "owner_phone": "6281288449886",
+    "description": "Kos wilayah Waiheru, lokasi BTN Puskopad (belakang lapangan Kompi Bantuan). Fasilitas: Parkiran mobil/motor, kamar mandi dalam, sudah termasuk listrik dan air bersih. ",
+    "location": "Waiheru",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 85,
+    "lng": 55,
+    "image_url": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/p720x720/91130363_2649253485312263_1345010919033274368_o.jpg?_nc_cat=109&_nc_sid=1480c5&_nc_eui2=AeEQQJvhV4Pqe085nhChz8ugUEUG8uNGz0zl4yNi5dCAYR7yVsVTWFL9HPE9gFqy2qv4v8dbRi73B2SkXOWQ0GwP45HrelLxwaaNzpm1mmFjqA&_nc_oc=AQlKrDbX40CWHF_WYt3-oLGG5VBVv3CPYCyvpT4H8XWncmAxfTEm98miWDsjlO6XBaI&_nc_ht=scontent.fcgk4-2.fna&_nc_tp=6&oh=2ec56b23dada19e8ae1b443a8ef17013&oe=5EA39CCD",
+    "price_month": "Rp 650,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.62785773676809,
+      "lng": 128.22392463684085
+    },
+    "slug": "kos-waiheru-area-btn-puskopad",
+    "views": 45,
+    "type": "type1",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk5-1.fna.fbcdn.net/v/t1.0-9/p720x720/90963910_2649252995312312_7767195484321480704_o.jpg?_nc_cat=105&_nc_sid=1480c5&_nc_eui2=AeHyvDXa9aoMPOLJA6g8KnWVFVPcdzxVWowgIjEs1g-4d8tzIhXaIEjDEGq-nz87nIR9gHA5dL-o8qglRfX1IDVPX7QThZYao-7j_NNi0P8ibQ&_nc_oc=AQkQ220XAsyllnpx8UpwJszVb6laVYH0f3da_gYy6xWIBxDryqSebi22NxRwJQvfSSw&_nc_ht=scontent.fcgk5-1.fna&_nc_tp=6&oh=faf2c2fa0fc4a248dc0d2b6bb52c2504&oe=5EA3FCA9",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fcgk4-4.fna.fbcdn.net/v/t1.0-9/p720x720/91172364_2649252885312323_975587226987528192_o.jpg?_nc_cat=103&_nc_sid=1480c5&_nc_eui2=AeFxXIQXIvrKXSX4CCn2zSHEv4SMx01lJAUXbD8fJTP0R88kpRUy6-G07Wk9JRJ4WT7UB0AVFX7hC5iLPLXQbol6tf8a3usxeoRCsSP6Oh8PXQ&_nc_oc=AQlMOktLbvrZJZsxiNzxLicN7ztGK515MxkNFd_iGokjnHo83tUClnCUs3g6EMxah2s&_nc_ht=scontent.fcgk4-4.fna&_nc_tp=6&oh=05316df890534f36ddcef97d3a843948&oe=5EA5F75A",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fcgk4-2.fna.fbcdn.net/v/t1.0-9/p720x720/91276023_2649253281978950_1222179827939803136_o.jpg?_nc_cat=106&_nc_sid=1480c5&_nc_eui2=AeH49u0-Qfc_54nUNVApBIdpWUVIahhuVp3XHbPYYZbnUMmfJ5S4C99gTe7T4EbtONtBGmNzMqELBVsUsH3uSo-7Z7GlotHrYcnQWD7IrS71Ew&_nc_oc=AQn_WRfpUGMH-FgMrUKwaEaCYdTONYMNYNPASXhWMMyycGErgl4geMGHWWgI1GkpMmo&_nc_ht=scontent.fcgk4-2.fna&_nc_tp=6&oh=955f1ed069e71321b2d33ef5280a9c77&oe=5EA5A51B",
+        "width": "3",
+        "height": "4"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "createdAt": 1585618224384,
+    "room_title": "Kos Keluarga Tanjakan 2000 Wara",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 3,
+    "owner_phone": "6282399333490",
+    "description": "Kos bulanan/tahunan keluarga dan rumah hunian keluarga. Fasilitas area parkir mobil dan motor. Berlokasi di area Tanjakan 2000 sebelum Pengadilan Agama Wara.",
+    "location": "Batu Merah",
+    "room_gender": 3,
+    "owner_name": "Tantekos",
+    "lat": 24,
+    "lng": 1,
+    "image_url": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/91006745_858037994671183_7035785476053139456_n.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeF9P2gD4GANaAT0ao7I19xMl8z05Nmm43xikUFNnTWjh3kMxWSEPFWLRYK03Mv7kdiTVGtf2BypCilA00Z6eJbFQxocxbVsfnuFKwncjmzmNA&_nc_oc=AQmsV-sn20Ild-nfzGEzjIuNO5E6ydN-HQP-9D5IYG3NdH32KDzcRHMGuYOQ6ItA-ZE&_nc_ht=scontent.fbdo6-1.fna&oh=23275c2fe86450365b8b28c0f0f4e488&oe=5EA6DCEE",
+    "price_month": "Rp 0",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": true
+      }
+    ],
+    "latLng": {
+      "lat": -3.676560578400928,
+      "lng": 128.21765899658206
+    },
+    "slug": "kos-keluarga-tanjakan-2000-wara",
+    "views": 44,
+    "type": "type1",
+    "photos": [
+      {
+        "src": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/91006745_858037994671183_7035785476053139456_n.jpg?_nc_cat=106&_nc_sid=b9115d&_nc_eui2=AeF9P2gD4GANaAT0ao7I19xMl8z05Nmm43xikUFNnTWjh3kMxWSEPFWLRYK03Mv7kdiTVGtf2BypCilA00Z6eJbFQxocxbVsfnuFKwncjmzmNA&_nc_oc=AQmsV-sn20Ild-nfzGEzjIuNO5E6ydN-HQP-9D5IYG3NdH32KDzcRHMGuYOQ6ItA-ZE&_nc_ht=scontent.fbdo6-1.fna&oh=23275c2fe86450365b8b28c0f0f4e488&oe=5EA6DCEE",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/91397978_858037978004518_6482220099188031488_n.jpg?_nc_cat=108&_nc_sid=b9115d&_nc_eui2=AeHjiGj_1HxHwUHEnxn07NxswWV821VvHiW6NNZZaj7sZ71teRvhFwaUq4vg3gtbnQecLND09Od0Fc8PlJhUHHhia546TZX_4PS7w3owS_OREQ&_nc_oc=AQnNDpsjCuFgpHNd9Xj7-bGa2a5r3PZQr9sVsAU1wPRTTQbSLXjr39OJIx14AKXU_b4&_nc_ht=scontent.fbdo6-2.fna&oh=7b1cb9058679bccd78f697698fdac903&oe=5EA792A9",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/91356856_858038011337848_1187635590661668864_n.jpg?_nc_cat=100&_nc_sid=b9115d&_nc_eui2=AeFOYbbfEji7NNQosANftTv0WohJ4J2SqlO49x57SmQXd6KuUfvtHjiUKVcuvLT1LwgAs3HeNsTIZks5rp3z8E3tx6eNJNG5YfiTIO5WBjg2EQ&_nc_oc=AQll01Hj6rGuU_cXhga5dHzAvollxWXXOqkjOWT3j56m3o2sB4Vv5d660vnPOg5wKnI&_nc_ht=scontent.fbdo6-1.fna&oh=95f7eaec92a340a6db5c08d67951e7b1&oe=5EAA1ED5",
+        "width": "3",
+        "height": "4"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "createdAt": 1585620314712,
+    "room_title": "Masoya Cottage Amboina",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 11,
+    "owner_phone": "6285254488151",
+    "description": "Datang dan nginap di cottage ini di jamin aman, damai, tenang. Biaya sewa harian Rp 500,000",
+    "location": "Poka",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 24,
+    "lng": 18,
+    "image_url": "https://scontent.fbdo6-1.fna.fbcdn.net/v/t1.0-9/91112032_3408981572451542_3313156407997497344_n.jpg?_nc_cat=109&_nc_sid=b9115d&_nc_eui2=AeHv7Xz8ZS5cRG1_SsYIZ5Y_3JKr7ePem2X837J-yUAblfxNbrYc3LEekIs_bIjcy99tUEfN2f_MMvx7VluVGU_wni43sJtvV_gASbJ8PWAjUA&_nc_oc=AQmzqKJrMt8PxyqMWu0LcZbuhGXmOwIX2whkN_P03YzdGyOG9ibW9pDbrGYXBCRRk-4&_nc_ht=scontent.fbdo6-1.fna&oh=4f86af281517e8d217bbb8ce6656deb1&oe=5EA8023A",
+    "price_month": "Rp 500,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": true,
+        "wifi": true,
+        "kipas": false,
+        "ac": true,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.660868404641615,
+      "lng": 128.18058013916018
+    },
+    "slug": "masoya-cottage-amboina",
+    "views": 60,
+    "type": "type1",
+    "photos": [
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/91276317_3408981865784846_6349399266351382528_n.jpg?_nc_cat=101&_nc_sid=b9115d&_nc_eui2=AeGk3JKFHNcqsosQg-TK9DFhzgw6kM5GtShdCRpaaJWhdSCRrG2zjbtoYiOKEhfaaqk2wwieQm_blPWVWVcuECfvrzIWjvPeLlBhtSInI2oVfg&_nc_oc=AQlOeZT4VMPuqNx53H5B3xvCn7BveooeDy1qe66ISmFmxRe_c9VzSeIQNgKVkkEUsLY&_nc_ht=scontent.fbdo6-2.fna&oh=8d67e923cffaa0054ca565a578ae8042&oe=5EA6D6AD",
+        "width": "3",
+        "height": "4"
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/90929257_3408981795784853_7014342254827405312_n.jpg?_nc_cat=101&_nc_sid=b9115d&_nc_eui2=AeGBtuLRRRy5AFZAu2QcF8UmZP1cvOVLv7ZztthgzAiaJQT8PCAxIDWWACTR2UmfUMXT5xxkC_jvNGH9rQMcfslX_sHrbhN1uP70_-_Hxpv1hg&_nc_oc=AQlPy3zPP7WMxF5SLG3EXujmSj5L5BDmIoJ3IJHvkS58VZZm3ZOCAcpsDuFy8aP_Rpc&_nc_ht=scontent.fbdo6-2.fna&oh=2f44fd1ae0643016479fdaa1a21030d9&oe=5EA773D0",
+        "width": "4",
+        "height": "3"
+      },
+      {
+        "src": "https://scontent.fbdo6-2.fna.fbcdn.net/v/t1.0-9/91060216_3408981839118182_6678126124632899584_n.jpg?_nc_cat=101&_nc_sid=b9115d&_nc_eui2=AeHWqihLM2l-os2wlY8RpKHT2jqShwT-5HP4-P-mKAGK1CH3-YMljD7Fhzj5l5d8Km8Whaf3SfGezzuybexB8hHGZg7QxsZFiFhvQ3QmTlUJ9A&_nc_oc=AQmeN2DjN9TDybHemaqVN2DqyV63e5pceyzXR1-sp8fL0HreYi78E9b2I8LbO6HWy5I&_nc_ht=scontent.fbdo6-2.fna&oh=061a7dd6c6e02a66203419b5974d468b&oe=5EA8176D",
+        "width": "4",
+        "height": "3"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "createdAt": 1587177194928,
+    "room_title": "Rumah Kontrak Tahunan Dekat Masjid Al Fatah Ambon",
+    "avatar": "https://therminic2018.eu/wp-content/uploads/2018/07/dummy-avatar-300x300.jpg",
+    "price_title_time": 39,
+    "owner_phone": "6282195753215",
+    "description": "Rumah kontrakan 3 lantai berlokasi di Jalan Baru dekat Masjid Al Fatah. Masuk lorong di belakang Masjid Nurul Huda. Fasilitas: air sumur bor, 2 kamar tidur, 1 kamar mandi.",
+    "location": "Silale",
+    "room_gender": 1,
+    "owner_name": "Tantekos",
+    "lat": 30,
+    "lng": 4,
+    "image_url": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93776350_848682915641169_707912276551663616_n.jpg?_nc_cat=100&_nc_sid=07e735&_nc_eui2=AeGwheo1ykKFOXMq75u26lahQl4ZPL7pmFxCXhk8vumYXGEQgcsek9Ft33S9EMtr-Co&_nc_oc=AQmJVS-OTnGBUQogR2kdhQ4yGKWRiubr8kM2BOOzmD7Rg-iQnp8DnCEzu0KJhpMXHDg&_nc_ht=scontent.fcgk18-2.fna&oh=14cb0668eb6abbcf2c3ec29592b06717&oe=5EC0A399",
+    "price_month": "Rp 12,000,000",
+    "photo_arr": [],
+    "facilities_arr": [
+      {
+        "lemari": true,
+        "kasur": true,
+        "meja": false,
+        "wifi": false,
+        "kipas": false,
+        "ac": false,
+        "parkirMotor": true,
+        "parkirMobil": false
+      }
+    ],
+    "latLng": {
+      "lat": -3.696200148088075,
+      "lng": 128.17650318145755
+    },
+    "slug": "rumah-kontrak-tahunan-dekat-masjid-al-fatah-ambon",
+    "views": 22,
+    "type": "type2",
+    "photos": [
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93086062_848683345641126_7475568459053531136_n.jpg?_nc_cat=100&_nc_sid=07e735&_nc_eui2=AeG2kGr9zP53DRP0E8VZdeNCVAw_wjZMNfxUDD_CNkw1_MKhKYUWjdJoK-smmk6cBgE&_nc_oc=AQnH139vL10Q6w3dIXx5R9FNc2rXpNqTES1gSAWDG1HcMKXsEwXZ9BEoAiVVRHMv7D8&_nc_ht=scontent.fcgk18-2.fna&oh=f75cd8d997382e5943907a303aad293d&oe=5EBF9AE9",
+        "width": "4",
+        "height": "3"
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93411698_848682965641164_3853989972788903936_n.jpg?_nc_cat=104&_nc_sid=07e735&_nc_eui2=AeFfRjQb890CamDvEMQxG-19TZh10FuNnyNNmHXQW42fI9cc49Nq6mfMJckyRJsfhzk&_nc_oc=AQnZCQrcZDXhSpyQSvp4eJvy6DtKa-IqIn4oR3nfJnAElVeqadTUoHd0V3G8PMdgHpk&_nc_ht=scontent.fcgk18-2.fna&oh=69ef50573664d4163891ed68b73c85d5&oe=5EC088DC",
+        "width": "4",
+        "height": "3"
+      },
+      {
+        "src": "https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/93523915_848683055641155_8859863850510450688_n.jpg?_nc_cat=102&_nc_sid=07e735&_nc_eui2=AeEHuui_OE_FOSVqiV_qhq8qgNJ0Wnb9m-OA0nRadv2b44f_bAabcfpTaWiLaYBOjH8&_nc_oc=AQmToEyA9t7FuQKBIOABzTWh_hjh3aDr-LEV5arEtKTdqrpGUDvs5MjqinO9zHBxRZ8&_nc_ht=scontent.fcgk18-2.fna&oh=3951465771ce1ccb70cf8c81beeb189c&oe=5EBEE3D3",
+        "width": "4",
+        "height": "3"
+      }
+    ]
+  }
+]

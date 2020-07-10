@@ -1,0 +1,36 @@
+---
+layout: default
+title: TANTEKOS
+---
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Informasi rumah kost dan kontrakan wilayah Maluku</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <div>
+
+    <h2 class="mt-4">{{ site.posts.first.title }}</h2>
+    <small class="text-secondary">{{ site.posts.first.date | date: "%m/%d/%Y" }}</small>
+    <hr>
+    {{ site.posts.first.content }}
+    <hr>
+    <h5>Informasi lainnya</h5>
+    <div>
+      <ul>
+        {% for post in site.posts limit: 5 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</body>
+
+</html>

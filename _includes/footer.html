@@ -1,0 +1,32 @@
+<hr>
+<div class="container">
+    <div class="row">
+        <div>
+            <!-- <h4>Tags</h4> -->
+            <!-- {% for tags in site.tags %} -->
+            <!-- <li> -->
+            <!-- - <a href="/{{ tags[0] }}">{{ tags[0] }}</a> -->
+            <!-- </li> -->
+            <!-- {% endfor %} -->
+        </div>
+    </div>
+    <div class="row">
+        <div>
+            {% for categories in site.categories %}
+            <a href="/{{ categories[0] }}" class="btn btn-outline-primary">{{ categories[0] }}</a>
+            {% endfor %}
+        </div>
+    </div>
+
+</div>
+<div class="mt-4 mb-4">
+    <hr>
+    <a href="/" title="Home">Home</a> | <a href="https://spulsa.online/tentang" title="Tentang Kami">Tentang Kami</a> | <a href="https://spulsa.online/sitemap.xml"
+        title="Sitemap" target="_blank">Sitemap</a>
+    <br>
+    <br>
+    &copy; <a href="https://www.facebook.com/spulsa.online" title="Spulsa Online" target="_blank">Spulsa Online Indonesia</a> <br>
+    <small>Powered by <a href="https://www.facebook.com/spulsa.online" title="Spulsa Online" target="_blank">spulsa</a>
+    </small>
+
+</div>
