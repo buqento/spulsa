@@ -14,12 +14,12 @@ description: "Untuk melakukan transaksi pengisian ulang pulsa elektrik murah, pe
 
 Untuk melakukan transaksi pengisian ulang pulsa elektrik murah, pembelian **token PLN**, **voucher game online** serta melakukan pembayaran **tagihan PPOB** dapat dilakukan dengan mudah via 
 
-- **SMS**: 081314143999  
-- aplikasi **Telegram**: @centerspulsa_bot  
-- aplikasi **Whatsapp**: <a href="//wa.me/6281314143999" rel="nofollow" target="new"><img alt="whatsapp pulsa" src="https://1.bp.blogspot.com/-EOjUHA0aCoQ/XaC-lPhx9LI/AAAAAAAAAzs/tbEr-Yrj9lQLshlhie2sBby7DVE7dPkFQCLcBGAsYHQ/s1600/wacenter.png"></a>
+- **SMS Center**: 081314143999  
+- Aplikasi **Telegram**: @centerspulsa_bot  
+- Aplikasi **Whatsapp**: <a href="https://api.whatsapp.com/send?phone=6281314143999" rel="nofollow" target="new"><img alt="whatsapp pulsa" src="https://1.bp.blogspot.com/-EOjUHA0aCoQ/XaC-lPhx9LI/AAAAAAAAAzs/tbEr-Yrj9lQLshlhie2sBby7DVE7dPkFQCLcBGAsYHQ/s1600/wacenter.png"></a>
 
 <hr>
-# SMS Center
+## SMS Center (Alternatif)
 Transaksi melalui SMS dapat dikirim ke nomor pusat kami yaitu:
 - 0853 1196 2999
 - 0813 1414 5999
@@ -35,7 +35,7 @@ Transaksi melalui SMS dapat dikirim ke nomor pusat kami yaitu:
 - 0898 5888 823
 
 <hr>
-# Format Transaksi
+## Format Transaksi
 
 ### Cek Saldo
 `S.PIN`  
