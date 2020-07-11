@@ -12,9 +12,13 @@ description: "Untuk melakukan transaksi pengisian ulang pulsa elektrik murah, pe
 <image src="https://i.imgur.com/9OiHEK3.png" alt="Cara Menjadi Agen Pulsa Elektrik Murah" class="img-fluid" />
 </div>
 
-Untuk melakukan transaksi pengisian ulang pulsa elektrik murah, pembelian **token PLN**, **voucher game online** serta melakukan pembayaran **tagihan PPOB** dapat dilakukan dengan mudah via **SMS**, aplikasi **Telegram**, dan aplikasi **Whatsapp**.
+Untuk melakukan transaksi pengisian ulang pulsa elektrik murah, pembelian **token PLN**, **voucher game online** serta melakukan pembayaran **tagihan PPOB** dapat dilakukan dengan mudah via 
 
+- **SMS**: 081314143999  
+- aplikasi **Telegram**: @centerspulsa_bot  
+- aplikasi **Whatsapp**: <a href="//wa.me/6281314143999" rel="nofollow" target="new"><img alt="whatsapp pulsa" src="https://1.bp.blogspot.com/-EOjUHA0aCoQ/XaC-lPhx9LI/AAAAAAAAAzs/tbEr-Yrj9lQLshlhie2sBby7DVE7dPkFQCLcBGAsYHQ/s1600/wacenter.png"></a>
 
+<hr>
 # SMS Center
 Transaksi melalui SMS dapat dikirim ke nomor pusat kami yaitu:
 - 0853 1196 2999
@@ -30,7 +34,7 @@ Transaksi melalui SMS dapat dikirim ke nomor pusat kami yaitu:
 - 0896 1083 5999
 - 0898 5888 823
 
-
+<hr>
 # Format Transaksi
 
 ### Cek Saldo
@@ -60,7 +64,7 @@ Transaksi melalui SMS dapat dikirim ke nomor pusat kami yaitu:
 
 ### Cek Status Transaksi Per Tanggal
 `CEK.TANGGAL.TUJUAN.PIN`  
-- Contoh : `CEK.31. 08987654321.1234`
+- Contoh : `CEK.31.08987654321.1234`
 <hr>
 
 ### Paralel Tipe SMS
